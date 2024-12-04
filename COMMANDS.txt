@@ -16,3 +16,9 @@ git pull = changes from remote repository to local workspace
 
 
 
+
+git config --list = configuration
+
+git config global user name "username" = to add user name
+
+git config global user email "user email" = to add user email
